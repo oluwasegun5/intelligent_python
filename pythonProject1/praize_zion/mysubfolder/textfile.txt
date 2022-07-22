@@ -1,0 +1,3 @@
+C:\Users\FreeStar\PycharmProjects\pythonProject1\praize_zion\mysubfolder\newtextfile.txt:another one 
+C:\Users\FreeStar\PycharmProjects\pythonProject1\praize_zion\mysubfolder\newtextfile.txt:another one 
+C:\Users\FreeStar\PycharmProjects\pythonProject1\praize_zion\mysubfolder\newtextfile.txt:another one 

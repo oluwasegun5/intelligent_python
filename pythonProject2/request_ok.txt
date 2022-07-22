@@ -1,0 +1,20 @@
+http://46.101.194.190/monocourse_parser?query={
+   "ou":{
+      "modality":"A_DISTANCE",
+      "type":"CP",
+      "ville":{
+         "nom":null,
+         "codePostal":null,
+         "codeInsee":null,
+         "coordonnee":null,
+         "eligibleCpf":true
+      }
+   },
+   "sort":"SCORE",
+   "debutPagination":1,
+   "nombreOccurences":10,
+   "quoi":"sketchup",
+   "quoiReferentiel":null,
+   "contexteFormation":null,
+   "distance":null
+}
