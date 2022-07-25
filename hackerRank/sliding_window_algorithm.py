@@ -14,6 +14,3 @@
 #         checker = checker[j + 1::]
 #         checker.append(i)
 # print(highest)
-nums = {1, 2, 3, 4, 5, 6}
-nums.add(7)
-print(nums)
